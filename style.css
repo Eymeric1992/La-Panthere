@@ -18,7 +18,9 @@ a:hover {
     cursor: pointer;
 }
 
-
+p {
+    font-size: 13px;
+}
 
 .bloc {
     width: 100%;
