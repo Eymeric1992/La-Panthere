@@ -22,6 +22,13 @@ p {
     font-size: 13px;
 }
 
+
+.placecontact {
+    position: absolute;
+    right: 21px;
+    top: 50%;
+}
+
 .bloc {
     width: 100%;
     clear: both;
