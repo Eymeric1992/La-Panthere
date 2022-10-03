@@ -29,6 +29,14 @@ p {
     top: 50%;
 }
 
+.logomono {
+    height: 40px;
+}
+
+.logohead {
+
+    width: 100px;
+}
 .bloc {
     width: 100%;
     clear: both;
