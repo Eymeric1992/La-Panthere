@@ -20,6 +20,7 @@ a,
 button {
     transition: all .3s ease-in-out;
     outline: none!important;
+    color: black;
 }
 
 a:hover {
@@ -45,7 +46,7 @@ img {
 }
 
 .logomono {
-    height: 41px;
+    height: 40px;
 }
 
 .logohead {
@@ -715,7 +716,6 @@ a {
 
 .cta-hero {
     margin-top: 22px;
-    color: #FFFFFF!important;
     text-transform: uppercase;
     padding: 12px 28px 12px 28px;
     font-size: 16px;
@@ -799,12 +799,13 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #FFFFFF!important;
+    background-color: #00000078
 }
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+
 }
 
 .btn-atomic-tangerine:hover {
