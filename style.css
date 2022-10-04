@@ -35,6 +35,9 @@ img {
     width: 100%
 }
 
+.imgagence {
+    width: auto;
+}
 .placecontact {
     position: absolute;
     right: 21px;
