@@ -36,6 +36,11 @@ img {
     width: 100%
 }
 
+.img-responsive {
+    width: auto;
+}
+
+
 .imgagence {
     width: auto;
 }
