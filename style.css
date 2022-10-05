@@ -8,7 +8,7 @@ body {
 }
 
 @font-face {
-    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue","Helvetica" , "Arial";
+    font-family: "Helvetica Neue-Light", "Helvetica Neue Light", "Helvetica Neue","Helvetica" , "Arial";
     font-style: normal;
     font-weight: 400;
     src: local('Pacifico Regular'), local('Pacifico-Regular'), url(https://fonts.gstatic.com/s/pacifico/v12/FwZY7-Qmy14u9lezJ-6H6MmBp0u-.woff2) format('woff2');
@@ -574,7 +574,7 @@ a[data-lightbox] {
 
 a[data-lightbox]:hover::before {
     content: "+";
-    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial;
+    font-family: "Helvetica Neue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial;
     font-size: 32px;
     width: 50px;
     height: 50px;
